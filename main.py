@@ -9,8 +9,8 @@ def homepage():
 
 @app.route('/curriculo')
 
-def curriculo():
-    return render_template('curriculo.html')
+def open_pdf():
+    return render_template('pdf.html')
 
 if __name__ == '__main__':
     app.run(debug=True)
