@@ -1,8 +1,8 @@
-## Site simples com Flask
+## Site com Flask
 
 - Esse é meu primeiro usando a biblioteca Flask.
 
-### Por que fazer esse projeto W
+### Por que fazer esse projeto 
 
 - O objetivo desse projeto é aprender o básico de Flask, como usar estrutura Flask, aprender um pouco de html,
 lidar com algumas funções, como fazer um site e colocar no ar.
